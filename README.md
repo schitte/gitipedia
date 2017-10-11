@@ -1,5 +1,2 @@
-# gitipedia
-
-It's like wikipedia, but in git.
-
-[CLICK HERE TO VISIT THE GITIPEDIA](https://github.com/schitte/gitipedia/wiki)
+## What's all this code used for?
+# [Visit Schitte Industries](https://sites.google.com/view/schitteindustries/) to see it all in action!
